@@ -8,10 +8,11 @@
     flex: 0 0 calc(33.3333% - 20px);
     max-width: calc(33.3333% - 20px);
     margin: 10px; 
+}
 
 @media (max-width: 992px) { 
     .col-4 {
-        flex: 0 0 calc(50% - 20px); 
+        flex: 0 0 calc(50% - 20px);
         max-width: calc(50% - 20px);
     }
 }
